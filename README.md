@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=siwooJang%20Github&fontSize=60)
 
-🛠️ Skills 🛠️ 
+
+
+<h2>🛠️ Skills 🛠️ </h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
@@ -14,7 +16,21 @@
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-</br>
+<h2> Project </h2>
+
+<strong>KISIA Veneer 2023.07 ~ 2023.10</strong>
+
+FrontEnd , Server(GCP)
+
+<strong>캠퍼스 아카데미 TABA 니모내모 (우수상) 2023.09 ~ 2023.12</strong>
+
+FrontEnd
+
+<strong>캡스톤 Deer Diary 2024.02 ~ 2024.06</strong>
+
+FrontEnd, ChatBot(Chatgpt API)
+
+<h2>Stats</h2>
 
 ![siwooJang's GitHub stats](https://github-readme-stats.vercel.app/api?username=siwooJang&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwooJang&layout=compact&theme=tokyonight)
 
